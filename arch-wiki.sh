@@ -9,7 +9,7 @@ if [ "--help" == "$1" ] || [ "-h" == "$1" ]; then
 	echo
 	echo "Examples:"
 	echo "  $this ssh"
-	echo "  $this beginners guide"
+	echo "  $this installation guide"
 	echo "  $this the arch way"
 	echo
 	exit 0
