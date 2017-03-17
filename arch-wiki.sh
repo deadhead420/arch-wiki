@@ -1,4 +1,18 @@
 #!/bin/bash
+###############################################################
+### arch-wiki.sh search arch wiki from the cli
+###
+### Copyright (C) 2017 Dylan Schacht
+###
+### By: Dylan Schacht (deadhead)
+### Email: deadhead3492@gmail.com
+### Webpage: http://arch-anywhere.org
+###
+### Any questions, comments, or bug reports may be sent to above
+### email address. Enjoy, and keep on using Arch.
+###
+### License: GPL v2.0
+###############################################################
 
 if [ "--help" == "$1" ] || [ "-h" == "$1" ]; then
 	this=${0##*/}
